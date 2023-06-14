@@ -4,6 +4,7 @@
   },
   "remediateSettings": {
     "prHourlyLimit": 0,
-    "dependencyDashboard": false
+    "dependencyDashboard": false,
+    "enableRenovate":true
   }
 }
