@@ -7,7 +7,7 @@
   "author": "Anatoly Katzman <anatoly.katzman@sisense.com>",
   "license": "ISC",
   "scripts": {
-    "lint": "npx nx run-many --target=lint",
+    "lint": "npx nx run-many --target=lint", 
     "audit": "npx nx run-many --target=audit",
     "unit-test": "npx nx run-many --target=unit-test"
   },
