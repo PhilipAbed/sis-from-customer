@@ -8,7 +8,7 @@
     "enableRenovate":true,
     "packageRules": [
      {
-       "matchPackageNames": ["eslint", "prettier", "lodash", "lint-staged"],
+       "matchPackageNames": ["eslint", "prettier", "lodash", "lint-staged", "handlebars", "lerna", "nx", "vm2", "eslint-config-airbnb", "eslint-plugin-jsdoc", "eslint-plugin-json", "eslint-plugin-mocha"],
        "groupName": "philip test libs",
        "description": "who cares"
      }
