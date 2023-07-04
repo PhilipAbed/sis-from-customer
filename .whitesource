@@ -6,6 +6,7 @@
     "prHourlyLimit": 0,
     "dependencyDashboard": false,
     "enableRenovate":true,
+    "extends": ["config:base"],
     "packageRules": [
      {
        "matchPackageNames": ["eslint", "prettier", "lodash", "lint-staged", "handlebars", "lerna", "nx", "vm2", "eslint-config-airbnb", "eslint-plugin-jsdoc", "eslint-plugin-json", "eslint-plugin-mocha"],
