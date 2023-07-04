@@ -5,6 +5,13 @@
   "remediateSettings": {
     "prHourlyLimit": 0,
     "dependencyDashboard": false,
-    "enableRenovate":true
+    "enableRenovate":true,
+    "packageRules": [
+     {
+       "matchPackageNames": ["eslint", "prettier", "lodash", "lint-staged"],
+       "groupName": "philip test libs",
+       "description": "who cares"
+     }
+   ]
   }
 }
